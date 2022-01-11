@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BharatX UPI</string>
+    <string name="phone_number_prompt">+91</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="confirming_transaction">Confirming transaction...</string>
+</resources>
